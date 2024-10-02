@@ -7,4 +7,4 @@
 
 [C4 Component](https://github.com/KsChugay/Diplom/docs/C4-Component.png)
 
-[Диаграмма классов](https://github.com/KsChugay/Diplom/docs/class.png)
+[Диаграмма классов](https://github.com/KsChugay/Diplom/blob/main/docs/class.png)
