@@ -7,6 +7,4 @@
 
 [C4 Component](https://github.com/KsChugay/Diplom/docs/C4-Component.png)
 
-[Диаграмма классов]()
-
-[Диаграмма us-case]()
+[Диаграмма классов](https://github.com/KsChugay/Diplom/docs/class.png)
